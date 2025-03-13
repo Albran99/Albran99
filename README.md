@@ -50,7 +50,7 @@ I also do CTF competitions in my free time*
 </div>
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albran99&show_icons=true&locale=en&layout=compact" alt="albran99" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albran99&show_icons=true&locale=en" alt="albran99" />
 </div>
 
 
@@ -73,7 +73,7 @@ Filter). In multi-container environments, shared kernel access can weaken isolat
 Development of an AI model to predict glucose levels in diabetic patients based upon only the history of blood sugar measurements.
 <br>
 
-## (Some) MSc Computer Engineering Projects
+## (Some)MSc Computer Engineering Projects
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![OMNeT++](https://img.shields.io/badge/OMNeT++-002244.svg?style=for-the-badge)<br>
 **Design and test result analysis** of a simulation in which a network of interconnected nodes can exchange messages with each other in a peer-to-peer structure. Within this network, each node has a probability of transmitting to its neighboring nodes. The objective of the simulation is to identify the optimal configuration that maximizes the spread of the messages accounting for possible collisions. Developed in **C++** with the **OMNeT++** framework. ([Epidemic Broadcast - 2023](https://github.com/Albran99/EpidemicBroadcast))
 
